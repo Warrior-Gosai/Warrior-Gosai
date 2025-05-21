@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying **MCA at SPU**
 - 🌱 I’m currently learning **Development in Java**
 - 🤔 I’m looking for help with **internship opportunities**
-- 💬 Ask me about ...
 - 📫 How to reach me : **LinkedIn**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I can debug better with music playing in the background!**
@@ -28,5 +27,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Warrior-Gosai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
