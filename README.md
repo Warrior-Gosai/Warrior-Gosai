@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying **MCA at SPU**
 - 🌱 I’m currently learning **Development in Java**
-- 🤔 I’m looking for help with **internship opportunities**
+- 🤔 I’m looking for help with **Internship Opportunities**
 - 📫 How to reach me : **LinkedIn**
-- 😄 Pronouns: **he/him**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I can debug better with music playing in the background!**
 
 ## 🌐 Socials: 
