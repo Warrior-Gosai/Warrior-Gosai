@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gosai-kartik)
+[![Stack overflow](https://img.shields.io/badge/Stackoverflow-%230077B5.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22051379/kartik-gosai)
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Warrior_Gosai) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gosai.18)
 
