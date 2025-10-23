@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--
-**Warrior-Gosai/Warrior-Gosai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile....
-
 Here are some ideas to get you started:
 Code Here First Fool -> https://leetcode.com/u/Warrior-Gosai/
 
@@ -16,8 +14,9 @@ Code Here First Fool -> https://leetcode.com/u/Warrior-Gosai/
 - ⚡ Fun fact: **I can debug better with music playing in the background!**
 
 ## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gosai-kartik)
-[![Stack overflow](https://img.shields.io/badge/Stackoverflow-%230077B5.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22051379/kartik-gosai)
+[![Portfolio](https://img.shields.io/badge/🌐Portfolio-%238511FA.svg?logo=Website&logoColor=white)](https://warrior-gosai.github.io/Portfolio-Website/)
+[![LinkedIn](https://img.shields.io/badge/🌟LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://in.linkedin.com/in/gosai-kartik)
+[![Stack overflow](https://img.shields.io/badge/Stackoverflow-%23ED8B00.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22051379/kartik-gosai)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Warrior_Gosai) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gosai.18)
