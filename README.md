@@ -8,7 +8,7 @@ Code Here First Fool -> https://leetcode.com/u/Warrior-Gosai/
 
 - 🔭 I’m currently studying **MCA at SPU**
 - 🌱 I’m currently learning **Development in Java**
-- 🤔 I’m looking for help with **Internship Opportunities**
+- 🤔 I’m looking for help with **Java Developer Opportunities**
 - 📫 How to reach me : **LinkedIn**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I can debug better with music playing in the background!**
