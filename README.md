@@ -6,8 +6,8 @@ Code Here First Fool -> https://leetcode.com/u/Warrior-Gosai/
 
 -->
 
-- 🔭 I’m currently studying **MCA at SPU**
-- 🌱 I’m currently learning **Development in Java**
+- 🔭 I’m currently working as **Full Stack Java Developer**
+- 🌱 I’m currently learning **DSA & System Design**
 - 🤔 I’m looking for help with **Java Developer Opportunities**
 - 📫 How to reach me : **LinkedIn**
 - 😄 Pronouns: **He/Him**
