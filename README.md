@@ -6,9 +6,8 @@ Code Here First Fool -> https://leetcode.com/u/Warrior-Gosai/
 
 -->
 
-- 🔭 I’m currently working as **Full Stack Java Developer**
+- 🔭 I’m currently working as **Associate Software Engineer**
 - 🌱 I’m currently learning **DSA & System Design**
-- 🤔 I’m looking for help with **Java Developer Opportunities**
 - 📫 How to reach me : **LinkedIn**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I can debug better with music playing in the background!**
